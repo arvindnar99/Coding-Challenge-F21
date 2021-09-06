@@ -57,16 +57,15 @@ The score was then processed and we are given a compound ratio.
  
  ## Output
  
- -Vader
+
    - The Vader Sentiment Analyzer showed that the input file has a majority positive sentiment. Below is a pie chart showing the percentage of each sentiment:
      
       ![nb](https://user-images.githubusercontent.com/62112884/132259296-0de1bfbb-ea85-479e-8d91-64a0283a4d7a.PNG)
       
+   - The Naive Bayes Classifier showed that the input file has a majority negative sentiment. Below is a pie chart showing the percentage of each sentiment:
       
-   -Naive Bayes Classifier
-    - The Naive Bayes Classifier showed that the input file has a majority negative sentiment. Below is a pie chart showing the percentage of each sentiment:
-      
-      ![nbs](https://user-images.githubusercontent.com/62112884/132259930-9f436741-d2cb-47f5-b875-869d6eeb686e.PNG)
+      ![nbs](https://user-images.githubusercontent.com/62112884/132259956-5e2131fb-1e16-4d88-9698-141753d9f0a5.PNG)
+
 
 
      
