@@ -119,12 +119,11 @@ def assignFeatures(document):
     return features
 
 
-# loads 5000 featuresets from pickle
+# loads featuresets
 
 
-setsfeature = open("featureSets.pickle",  "rb")
-featuresets = pickle.load(setsfeature)
-setsfeature.close()
+featuresets = [(assignFeatures(r), c) for (r,c) in documents]
+
 random.shuffle(featuresets)
 train_set = featuresets[:10000]
 test_set = featuresets[10000:]
