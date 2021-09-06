@@ -63,8 +63,8 @@ The score was then processed and we are given a compound ratio.
       ![nb](https://user-images.githubusercontent.com/62112884/132259296-0de1bfbb-ea85-479e-8d91-64a0283a4d7a.PNG)
      
  -Naive Bayes Classifier
-      - The Naive Bayes Classifier showed that the input file has a majority negative sentiment. Below is a pie chart showing the percentage of each sentiment:
-    
+   -The Naive Bayes Classifier showed that the input file has a majority negative sentiment. Below is a pie chart showing the percentage of each sentiment:
+
       ![nbs](https://user-images.githubusercontent.com/62112884/132259349-97b3e98c-7aa0-4a62-b4c4-e5e6c6c987cb.PNG)
 
 ## Analysis and Conclusion
